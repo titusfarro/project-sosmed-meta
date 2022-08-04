@@ -1,0 +1,11 @@
+{
+    "users" : [
+        {
+            "id" : 1, 
+            "username" : "filo", 
+            "email" : "filo@gmail.com", 
+            "password" : 12345,
+            "full_name" : "filostar"
+        }
+    ]
+}

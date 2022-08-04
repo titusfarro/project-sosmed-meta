@@ -1,0 +1,4 @@
+npm install axios redux react redux 
+npm install react-icons 
+npm install formik yup js-cookie 
+npm i @chakra-ui/react @emotion/react@^11 @emotion/style@^11 framer-motion@^6
